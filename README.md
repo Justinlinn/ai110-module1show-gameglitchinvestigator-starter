@@ -31,13 +31,11 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo Walkthrough
 
-Describe your fixed game in numbered steps so a reader can follow along without watching a video:
-
-1. <!-- Describe this step -->
-2. <!-- Describe this step -->
-3. <!-- Describe this step -->
-4. <!-- Describe this step -->
-5. <!-- Add more steps as needed -->
+1. User enters a guess of 40 → "Too Low" → Go HIGHER
+2. User enters a guess of 70 → "Too High" → Go LOWER
+3. User enters a guess of 60 → "Too Low" → Go HIGHER
+4. Score updates correctly after each guess (-5 per wrong guess)
+5. User enters a guess of 65 → "Correct!" and the game ends
 
 **Screenshot** *(optional)*: <!-- Insert a screenshot of your fixed, winning game here -->
 
